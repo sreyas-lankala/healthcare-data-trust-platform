@@ -13,7 +13,7 @@ The platform ingests healthcare datasets, standardizes transformations, validate
 - Data Lake storage for raw clinical datasets
 - Metadata catalog management
 - Dimensional warehouse modeling
-- Automated data quality validation
+- Automated data quality validation checks
 - Data observability monitoring
 - Governance metadata tracking
 - Data Trust score monitoring
